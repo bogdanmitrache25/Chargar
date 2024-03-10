@@ -1,0 +1,2235 @@
+[
+  {
+    "zipcode": "28050",
+    "address": "Ronda De La Comunicación, Madrid, Comunidad de Madrid",
+    "id": 0,
+    "latitude": 40.515459,
+    "longitude": -3.66219,
+    "name": "Endesa-Telefónica",
+    "stations": 1
+  },
+  {
+    "zipcode": "15008",
+    "address": "Polígono Industrial A Grela Bens, Rúa Gutemberg, 12 Coruña, España",
+    "id": 1,
+    "latitude": 43.354233,
+    "longitude": -8.419711,
+    "name": "Corgal Automóviles",
+    "stations": 3
+  },
+  {
+    "zipcode": "15006",
+    "address": "Cuesta De Palloza, 5, A Coruña, Galicia",
+    "id": 2,
+    "latitude": 43.358523,
+    "longitude": -8.403452,
+    "name": "Plaza La Palloza",
+    "stations": 1
+  },
+  {
+    "zipcode": "46009",
+    "address": "Av De Pío Xii, 1, Valencia, Comunidad Valenciana",
+    "id": 3,
+    "latitude": 39.479203,
+    "longitude": -0.39171,
+    "name": "El Corte Inglés (Ademuz)",
+    "stations": 2
+  },
+  {
+    "address": "Campus Universitario de Gijón, 1",
+    "id": 4,
+    "latitude": 43.542334,
+    "longitude": -5.630023,
+    "name": "Parque de recarga de la Escuela Politécnica de Ingeniería de Gijón",
+    "stations": 1
+  },
+  {
+    "address": "Carrer Mallorca, 335",
+    "id": 5,
+    "latitude": 41.398542,
+    "longitude": 2.16866,
+    "name": "PR-114 Parking SEMSA",
+    "stations": 1
+  },
+  {
+    "zipcode": "08038",
+    "address": "Passeig de la Zona Franca, 66.B, Barcelona, Barcelona, España",
+    "id": 6,
+    "latitude": 41.355033,
+    "longitude": 2.142924,
+    "name": "MOTOR LLANSA",
+    "stations": 1
+  },
+  {
+    "address": "N41, Chéraga, Algiers, Algeria",
+    "id": 7,
+    "latitude": 36.77191,
+    "longitude": 2.958712,
+    "name": "Station services NAFTAL Chéraga",
+    "stations": 1
+  },
+  {
+    "zipcode": "07871",
+    "address": "Carretera de Es Can Mari, Formentera, Illes Balears",
+    "id": 8,
+    "latitude": 38.696401,
+    "longitude": 1.453135,
+    "name": "Restaurant Sa Platgeta",
+    "stations": 1
+  },
+  {
+    "zipcode": "07181",
+    "address": "Carrer Cala Blanca, 9 Torrenova Illes Balears España",
+    "id": 9,
+    "latitude": 39.5119,
+    "longitude": 2.539546,
+    "name": "Palma de Mallorca, Illes Balears",
+    "stations": 1
+  },
+  {
+    "zipcode": "07012",
+    "address": "Carrer Contramoll Mollet, 20, Palma, Illes Balears, España",
+    "id": 10,
+    "latitude": 39.566819,
+    "longitude": 2.638371,
+    "name": "3Real Club Náutico Trio",
+    "stations": 2
+  },
+  {
+    "zipcode": "23200",
+    "address": "Calle Plan Huertas, 24, La Carolina, Jaén, España",
+    "id": 11,
+    "latitude": 38.267773,
+    "longitude": -3.612152,
+    "name": "Gasolwin La Carolina",
+    "score": 6,
+    "stations": 3
+  },
+  {
+    "zipcode": "07141",
+    "address": "Calle Plaça Sant Marçal, Marratxí, Illes Balears",
+    "id": 12,
+    "latitude": 39.625226,
+    "longitude": 2.743692,
+    "name": "Parking Santa Pagesa",
+    "stations": 1
+  },
+  {
+    "address": "Plaza de Colón, s/n",
+    "id": 13,
+    "latitude": 41.644438,
+    "longitude": -4.727685,
+    "name": "Parking Colón",
+    "stations": 1
+  },
+  {
+    "zipcode": "21250",
+    "address": "49 Route de Dijon, Pouilly-sur-Saône France",
+    "id": 14,
+    "latitude": 47.020401,
+    "longitude": 5.113409,
+    "name": "Particulier - Pouilly-sur-Saône",
+    "stations": 1
+  },
+  {
+    "zipcode": "52005",
+    "address": "Plaza de Martin de Cordoba, 13, Melilla, España",
+    "id": 15,
+    "latitude": 35.29025,
+    "longitude": -2.948403,
+    "name": "KIA Parres",
+    "stations": 1
+  },
+  {
+    "address": "Calle Miguel Faraday, 6",
+    "id": 16,
+    "latitude": 41.673793,
+    "longitude": -0.864056,
+    "name": "Renault VEARSA (Zaragoza)",
+    "stations": 1
+  },
+  {
+    "zipcode": "19340",
+    "address": "La Transeuropéenne, Merlines, France",
+    "id": 17,
+    "latitude": 45.620281,
+    "longitude": 2.458963,
+    "name": "Aire de Service de la Haute Corrèze",
+    "score": 5.4,
+    "stations": 3
+  },
+  {
+    "zipcode": "16004",
+    "address": "Ronda De San José, 1, Cuenca, CM",
+    "id": 18,
+    "latitude": 40.06228,
+    "longitude": -2.132533,
+    "name": "NH Ciudad de Cuenca",
+    "stations": 1
+  },
+  {
+    "address": "47X8+H4X, A1, Ain Arnat, Algeria",
+    "id": 19,
+    "latitude": 36.1491234108894,
+    "longitude": 5.265153679762367,
+    "name": "Aire Babors Direction Setif",
+    "stations": 3
+  },
+  {
+    "address": "Avenida de la Libertad, s/n",
+    "id": 20,
+    "latitude": 37.891388,
+    "longitude": -4.784671,
+    "name": "Parking Gran Capitán Vial Norte",
+    "stations": 1
+  },
+  {
+    "zipcode": "07800",
+    "address": "34 DE CA LES ANIMES, EIVISSA, BALEARES ESP",
+    "id": 21,
+    "latitude": 38.920913,
+    "longitude": 1.441078,
+    "name": "IBERDROLA CLIENTES (Próximamente)",
+    "stations": 3
+  },
+  {
+    "zipcode": "02007",
+    "address": "Pol. Ind. Campollano, Avenida 5, 5, Albacete, España",
+    "id": 22,
+    "latitude": 39.025375,
+    "longitude": -1.887795,
+    "name": "Nissan Albacete",
+    "stations": 1
+  },
+  {
+    "zipcode": "86100",
+    "address": "16 avenue Louis Ripault, Châtellerault France",
+    "id": 23,
+    "latitude": 46.826354,
+    "longitude": 0.545188,
+    "name": "Zen'Auto Châtellerault",
+    "stations": 2
+  },
+  {
+    "zipcode": "35000",
+    "address": "R505, Taza, Morocco",
+    "id": 24,
+    "latitude": 34.266003,
+    "longitude": -3.956671,
+    "name": "Complexe Agora Park Taza",
+    "score": 10,
+    "stations": 1
+  },
+  {
+    "zipcode": "44195",
+    "address": "Carretera Sagunto-Burgos, 185, Teruel Aragón, España",
+    "id": 25,
+    "latitude": 40.362636,
+    "longitude": -1.143758,
+    "name": "Renault Tereul (22kW)",
+    "stations": 1
+  },
+  {
+    "address": "C/ María auxiliadora, 71",
+    "id": 26,
+    "latitude": 40.975539,
+    "longitude": -5.655427,
+    "name": "El Corte Ingles (Salamanca)",
+    "stations": 1
+  },
+  {
+    "zipcode": "33429",
+    "address": "Autovía Ruta de la Plata, KM. 4, 5, Paredes El Cuetu, Asturias, España",
+    "id": 27,
+    "latitude": 43.389217,
+    "longitude": -5.803677,
+    "name": "Parque Principado",
+    "stations": 1
+  },
+  {
+    "zipcode": "44600",
+    "address": "Avenida de Zaragoza, 34–48A, Alcañiz Aragón, España",
+    "id": 28,
+    "latitude": 41.051993,
+    "longitude": -0.144037,
+    "name": "Nissan Auto Martin (50kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "42400",
+    "address": "Boulevard de Fontsala , St chamond France",
+    "id": 29,
+    "latitude": 45.475622,
+    "longitude": 4.529895,
+    "name": "Renault - Saint Chamond",
+    "stations": 1
+  },
+  {
+    "zipcode": "32911",
+    "address": "Calle Del Parque Empresarial De Galicia Tecnópole, San Cibrao Das Viñas, Galicia",
+    "id": 30,
+    "latitude": 42.296033,
+    "longitude": -7.80035,
+    "name": "Tecnópole-Laddes",
+    "stations": 1
+  },
+  {
+    "address": "C/ Pedro Ponce con esquina C/ Fresno, s/n",
+    "id": 31,
+    "latitude": 36.773101,
+    "longitude": -2.806002,
+    "name": "El Corte Ingles (El Ejido)",
+    "stations": 1
+  },
+  {
+    "zipcode": "13730",
+    "address": "Autovía del Sur, Santa Cruz de Mudela Castilië-La Mancha, España",
+    "id": 32,
+    "latitude": 38.635125,
+    "longitude": -3.470392,
+    "name": "Motel Santa Cruz (22kW)",
+    "stations": 1
+  },
+  {
+    "address": "Barrio Murueta, s/n",
+    "id": 33,
+    "latitude": 43.169779,
+    "longitude": -2.619073,
+    "name": "IBIL Parking Eroski Abadiño",
+    "stations": 1
+  },
+  {
+    "address": "33.244510,-8.490351",
+    "id": 34,
+    "latitude": 33.2443671,
+    "longitude": -8.4906563,
+    "name": "FastVolt Afriquia Oasis Café El Jadida",
+    "score": 7.6,
+    "stations": 3
+  },
+  {
+    "zipcode": "06740",
+    "address": "Cerro de la Herrería, s/n, Orellana la Vieja, Badajoz, España",
+    "id": 35,
+    "latitude": 38.994926,
+    "longitude": -5.526454,
+    "name": "Apartamentos Turisiticos Embalse de Orellana",
+    "stations": 1
+  },
+  {
+    "zipcode": "27728",
+    "address": "6 Labrada, A Pontenova, , España",
+    "id": 36,
+    "latitude": 43.34095,
+    "longitude": -7.15912,
+    "name": "Casona de Labrada",
+    "stations": 1
+  },
+  {
+    "zipcode": "33509",
+    "address": "Calle Porrua, 226A, Porrúa, Asturias",
+    "id": 37,
+    "latitude": 43.40922,
+    "longitude": -4.797415,
+    "name": "Apartamentos Llanes Los Picos",
+    "stations": 1
+  },
+  {
+    "zipcode": "07714",
+    "address": "Carrer de sa Dragonera, 17, Maó, Illes Balears, España",
+    "id": 38,
+    "latitude": 39.886889,
+    "longitude": 4.241047,
+    "name": "Wenea Hypercharger",
+    "stations": 3
+  },
+  {
+    "zipcode": "43006",
+    "address": "Ctra. València, 206 Tarragona España",
+    "id": 39,
+    "latitude": 41.115285,
+    "longitude": 1.218607,
+    "name": "Nissan Nikko Center Motors",
+    "stations": 1
+  },
+  {
+    "zipcode": "23379",
+    "address": "Calle de San Vicente, 24, Segura de la Sierra Andalusië, España",
+    "id": 40,
+    "latitude": 38.296282,
+    "longitude": -2.65067,
+    "name": "Apartamentos Sierra de Segura",
+    "stations": 1
+  },
+  {
+    "zipcode": "31800",
+    "address": "ZAC des Landes, 10 Av. du Cagire, Estancarbon, France",
+    "id": 41,
+    "latitude": 43.116581,
+    "longitude": 0.766975,
+    "name": "E Leclerc Saint Gaudens",
+    "stations": 1
+  },
+  {
+    "zipcode": "06730",
+    "address": "Carretera N-430 km 131,1, Acedera, Badajoz, España",
+    "id": 42,
+    "latitude": 39.077179,
+    "longitude": -5.575735,
+    "name": "Hostal El Acueducto La Gran Ruta",
+    "stations": 1
+  },
+  {
+    "zipcode": "11500",
+    "address": "Ctra. Puerto de Santa María-Rota, 3 Puerto de Santa María, El, Cádiz",
+    "id": 43,
+    "latitude": 36.598925,
+    "longitude": -6.240186,
+    "name": " Repsol, Cádiz (IBIL) (50kW)",
+    "stations": 3
+  },
+  {
+    "address": "Polígon Industrial CIM (Els Frares) Vial A Nau, 5, s/n",
+    "id": 44,
+    "latitude": 41.634199,
+    "longitude": 0.663075,
+    "name": "Sofos Energia S.L.",
+    "stations": 1
+  },
+  {
+    "zipcode": "06900",
+    "address": "Calle Aurora, 7, Llerena, Badajoz, Badajoz, España",
+    "id": 45,
+    "latitude": 38.238637,
+    "longitude": -6.014423,
+    "name": "Hospedería Mirador de Llerena",
+    "stations": 1
+  },
+  {
+    "zipcode": "10004",
+    "address": "Av. de la Universidad, Cáceres, España",
+    "id": 46,
+    "latitude": 39.478886,
+    "longitude": -6.344893,
+    "name": "Gamma Solutions",
+    "stations": 3
+  },
+  {
+    "zipcode": "81400",
+    "address": "Rue Justin Robert, Carmaux, Frankrijk",
+    "id": 47,
+    "latitude": 44.048008,
+    "longitude": 2.15355,
+    "name": "Révéo",
+    "stations": 3
+  },
+  {
+    "zipcode": "03410",
+    "address": "Route de Gueret, Domérat, France",
+    "id": 48,
+    "latitude": 46.338486,
+    "longitude": 2.568148,
+    "name": "Auchan Montluçon Domérat",
+    "stations": 2
+  },
+  {
+    "zipcode": "31512",
+    "address": "Autovía del Ebro, 21, Fontellas Navarra, España",
+    "id": 49,
+    "latitude": 42.02286,
+    "longitude": -1.578611,
+    "name": "Nissan - AUTOAGRICOLA TUDELA, S.L.",
+    "stations": 1
+  },
+  {
+    "zipcode": "19264",
+    "address": "GU 128 km 0.5,, Alcuneza, , España",
+    "id": 50,
+    "latitude": 41.105906,
+    "longitude": -2.604201,
+    "name": "Relais & Chateaux Molino de Alcuneza",
+    "stations": 1
+  },
+  {
+    "address": "Güéjar Sierra, Carretera Granada",
+    "id": 51,
+    "latitude": 37.157121,
+    "longitude": -3.432807,
+    "name": "Güejar Sierra (Fenie)",
+    "stations": 3
+  },
+  {
+    "zipcode": "36210",
+    "address": "Rúa do Miradoiro, 2, Vigo, Pontevedra, España",
+    "id": 52,
+    "latitude": 42.220618,
+    "longitude": -8.724949,
+    "name": "Centro Comercial Gran Via De Vigo (1)",
+    "stations": 1
+  },
+  {
+    "zipcode": "07760",
+    "address": "Carrer de la Platja, Urbanización Tamarinda Balearen, España",
+    "id": 53,
+    "latitude": 39.926534,
+    "longitude": 3.844649,
+    "name": "Restaurant Mare",
+    "stations": 1
+  },
+  {
+    "address": "Unnamed Road, Morocco",
+    "id": 54,
+    "latitude": 32.987594,
+    "longitude": -6.65481,
+    "name": "Belkaddari Ferme Avicole",
+    "stations": 1
+  },
+  {
+    "address": "Highway Oujda",
+    "id": 55,
+    "latitude": 34.411464,
+    "longitude": -3.164215,
+    "name": "TotalEnergies Relais Taourirt",
+    "score": 7.8,
+    "stations": 1
+  },
+  {
+    "zipcode": "44350",
+    "address": "El Gancho, Sc el Gancho, 20, Caminreal, Teruel, España",
+    "id": 56,
+    "latitude": 40.837146,
+    "longitude": -1.307558,
+    "name": "Hotel El Azafrán",
+    "score": 9,
+    "stations": 3
+  },
+  {
+    "zipcode": "23350",
+    "address": "Av. Andalucia, 11, Puente de Génave, Jaén, España",
+    "id": 57,
+    "latitude": 38.357553,
+    "longitude": -2.798621,
+    "name": "Puente de Génave",
+    "stations": 2
+  },
+  {
+    "zipcode": "18200",
+    "address": "Route du Centroscope, Farges-Allichamps, France",
+    "id": 58,
+    "latitude": 46.752457,
+    "longitude": 2.4138,
+    "name": "Aire du Centre de la France",
+    "stations": 3
+  },
+  {
+    "zipcode": "04620",
+    "address": "Avenida de Baria, 45, Vera, Almería",
+    "id": 59,
+    "latitude": 37.237491,
+    "longitude": -1.853394,
+    "name": "Nissan Almeriauto (50kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "24430",
+    "address": "av Louis Suder, Marsac-sur-l'Isle, France",
+    "id": 60,
+    "latitude": 45.19305,
+    "longitude": 0.659541,
+    "name": "Auchan Périgueux (Marsac)",
+    "stations": 2
+  },
+  {
+    "zipcode": "10600",
+    "address": "s/n Plaza San Vicente Ferrer, Plasencia, España",
+    "id": 61,
+    "latitude": 40.029114,
+    "longitude": -6.093801,
+    "name": "Parador de Plasencia",
+    "stations": 1
+  },
+  {
+    "zipcode": "64400",
+    "address": "Avenue Alexander Fleming, Oloron-Sainte-Marie  France",
+    "id": 62,
+    "latitude": 43.197601,
+    "longitude": -0.618246,
+    "name": "Leclerc - Oloron Ste Marie (Station Service)",
+    "stations": 2
+  },
+  {
+    "zipcode": "40600",
+    "address": "327 Avenue du quatorze Juillet, Biscarrosse France",
+    "id": 63,
+    "latitude": 44.397301,
+    "longitude": -1.16625,
+    "name": "Renault Biscarrosse Bourg",
+    "stations": 1
+  },
+  {
+    "zipcode": "11205",
+    "address": "Avenida del Estecho, s/n P.I. La Menacha, Algeciras, Cádiz, España",
+    "id": 64,
+    "latitude": 36.161572,
+    "longitude": -5.465158,
+    "name": "Nissan CONCESOL AUTOMOCIÓNNissan Slu",
+    "stations": 2
+  },
+  {
+    "zipcode": "49000",
+    "address": "2 rue Michel Seurat, Angers, France",
+    "id": 65,
+    "latitude": 47.460616,
+    "longitude": -0.616547,
+    "name": "Intermarché Angers",
+    "stations": 1
+  },
+  {
+    "zipcode": "44490",
+    "address": "44490 Ferreruela de Huerva, Teruel, Испания",
+    "id": 66,
+    "latitude": 41.048031,
+    "longitude": -1.275604,
+    "name": "Repsol",
+    "stations": 1
+  },
+  {
+    "zipcode": "37773",
+    "address": "Autovía Ruta de la Plata, La Cabeza de Béjar, Salamanca, España",
+    "id": 67,
+    "latitude": 40.490337,
+    "longitude": -5.677069,
+    "name": "Hostal - Restaurante Jose Carlos",
+    "stations": 2
+  },
+  {
+    "zipcode": "43700",
+    "address": "133 avenue Charles Dupuy, Brives-Charensac France",
+    "id": 68,
+    "latitude": 45.052264,
+    "longitude": 3.911532,
+    "name": "Nissan - Brives-Charensac",
+    "stations": 2
+  },
+  {
+    "address": "PW2M+52 Kasbat Ayir, Morocco",
+    "id": 69,
+    "latitude": 32.700464,
+    "longitude": -9.067485,
+    "name": "Kasbat Ayir",
+    "stations": 1
+  },
+  {
+    "zipcode": "22330",
+    "address": "Avenida Central, Aínsa-Sobrarbe Aragon, España",
+    "id": 70,
+    "latitude": 42.414694,
+    "longitude": 0.140381,
+    "name": "Hotel Sanchez",
+    "stations": 1
+  },
+  {
+    "zipcode": "14600",
+    "address": "N-IV, 1, Montoro, Córdoba, España",
+    "id": 71,
+    "latitude": 38.010522,
+    "longitude": -4.376679,
+    "name": "Restaurante Jardinico II",
+    "stations": 3
+  },
+  {
+    "zipcode": "71460",
+    "address": "Le Bourg, Chapaize France",
+    "id": 72,
+    "latitude": 46.556835,
+    "longitude": 4.735857,
+    "name": "Restaurant Saint Martin Chapaize",
+    "stations": 1
+  },
+  {
+    "zipcode": "42300",
+    "address": "6 JUAN CARLOS I, BURGO DE OSMA- CIUDAD DE OSMA, SORIA ESP",
+    "id": 73,
+    "latitude": 41.5879,
+    "longitude": -3.067264,
+    "name": "IBERDROLA CLIENTES",
+    "stations": 2
+  },
+  {
+    "zipcode": "12100",
+    "address": "Boulevard Jean Gabriac, Millau, , France",
+    "id": 74,
+    "latitude": 44.092004,
+    "longitude": 3.065249,
+    "name": "Renault - Millau",
+    "stations": 1
+  },
+  {
+    "zipcode": "44450",
+    "address": "Carretera de la Estación, s/n, La Puebla de Valverde, Teruel, Teruel, España",
+    "id": 75,
+    "latitude": 40.214717,
+    "longitude": -0.944208,
+    "name": "Hotel La Fonda de la Estación (Próximamente)",
+    "stations": 3
+  },
+  {
+    "zipcode": "06009",
+    "address": "Av. Diario Hoy, 32, Badajoz, España",
+    "id": 76,
+    "latitude": 38.87677,
+    "longitude": -6.947769,
+    "name": "Nissan Divensa Distribucion",
+    "stations": 1
+  },
+  {
+    "zipcode": "47300",
+    "address": "47300 Bias, France",
+    "id": 77,
+    "latitude": 44.404998,
+    "longitude": 0.676527,
+    "name": "Auchan Villeneuve (Bias)",
+    "stations": 2
+  },
+  {
+    "zipcode": "32817",
+    "address": "Estrada de Ourense, 25, Celanova, Ourense, España",
+    "id": 78,
+    "latitude": 42.15879,
+    "longitude": -7.95027,
+    "name": "Repsol - Celanova",
+    "stations": 3
+  },
+  {
+    "zipcode": "22197",
+    "address": "Plaza 1 Walqa, 10, Huesca, España",
+    "id": 79,
+    "latitude": 42.107493,
+    "longitude": -0.458034,
+    "name": "Parque Tecnológico Wallqa S.A.",
+    "stations": 3
+  },
+  {
+    "zipcode": "37494",
+    "address": "A62 km297, Martin de Yeltes España",
+    "id": 80,
+    "latitude": 40.769604,
+    "longitude": -6.28666,
+    "name": "Ionity Charging Station Martin de Yeltes Sur",
+    "score": 10,
+    "stations": 1
+  },
+  {
+    "address": "4 Allée des Perdigolles, Pont-de-l'Isère, France",
+    "id": 81,
+    "latitude": 45.008961,
+    "longitude": 4.866405,
+    "name": "Solaris - Pont-de-l'Isère",
+    "stations": 1
+  },
+  {
+    "zipcode": "15800",
+    "address": "Rue Max Mabit Fournier, Vic-sur-Cère, France",
+    "id": 82,
+    "latitude": 44.978244,
+    "longitude": 2.626337,
+    "name": "station vic sur cère",
+    "stations": 1
+  },
+  {
+    "zipcode": "10300",
+    "address": "Autovía de Extremadura, Navalmoral, Caceres, España",
+    "id": 83,
+    "latitude": 39.873519,
+    "longitude": -5.549886,
+    "name": "Repsol - El Berrocal Restauranye",
+    "stations": 3
+  },
+  {
+    "zipcode": "29004",
+    "address": "Calle Pacífico, 35 129, Málaga",
+    "id": 84,
+    "latitude": 36.693807,
+    "longitude": -4.44049,
+    "name": "Smartcity",
+    "stations": 1
+  },
+  {
+    "zipcode": "28292",
+    "address": "Calle de Badalona, 1, Galapagar, Madrid, España",
+    "id": 85,
+    "latitude": 40.625336,
+    "longitude": -4.028,
+    "name": "IBIL - Repsol, Galapagar",
+    "stations": 3
+  },
+  {
+    "zipcode": "43770",
+    "address": "Avenue de Roderie, Chadrac FRA",
+    "id": 86,
+    "latitude": 45.051377,
+    "longitude": 3.895661,
+    "name": "has.to.be gmbh",
+    "stations": 2
+  },
+  {
+    "zipcode": "49023",
+    "address": "49023 Zamora Castile and León, España",
+    "id": 87,
+    "latitude": 41.515377,
+    "longitude": -5.747503,
+    "name": "Eroski Zamora",
+    "stations": 1
+  },
+  {
+    "zipcode": "58270",
+    "address": "Rue Claude Montaron Saint Benin d'Azy",
+    "id": 88,
+    "latitude": 46.999348,
+    "longitude": 3.393749,
+    "name": "Saint Benin d'Azy",
+    "stations": 1
+  },
+  {
+    "zipcode": "37170",
+    "address": "1 avenue Grand Sud, Chambray Les Tours France",
+    "id": 89,
+    "latitude": 47.347855,
+    "longitude": 0.701423,
+    "name": "Renault Tours",
+    "stations": 1
+  },
+  {
+    "zipcode": "10005",
+    "address": "52 Ctra. Valencia de Alcantara, Caceres, España",
+    "id": 90,
+    "latitude": 39.461048,
+    "longitude": -6.432761,
+    "name": "Hospes Palacio de Arenales & Spa",
+    "stations": 1
+  },
+  {
+    "zipcode": "32000",
+    "address": "19 Rue Aimé Césaire, Auch, Frankrijk",
+    "id": 91,
+    "latitude": 43.663664,
+    "longitude": 0.614439,
+    "name": "Kia",
+    "stations": 2
+  },
+  {
+    "zipcode": "50750",
+    "address": "N-II, Pina de Ebro, Zaragoza, España",
+    "id": 92,
+    "latitude": 41.496264,
+    "longitude": -0.367508,
+    "name": "Restaurante Venta de Santa Lucía",
+    "stations": 3
+  },
+  {
+    "zipcode": "15000",
+    "address": "40 Avenue Georges Pompidou, Aurillac FRA",
+    "id": 93,
+    "latitude": 44.918803,
+    "longitude": 2.465772,
+    "name": "has.to.be gmbh",
+    "stations": 3
+  },
+  {
+    "zipcode": "16003",
+    "address": "REYES CATOLICOS 68, CUENCA ES",
+    "id": 94,
+    "latitude": 40.059116,
+    "longitude": -2.138842,
+    "name": "Charging Station IBERDROLA CLIENTES",
+    "stations": 3
+  },
+  {
+    "zipcode": "27800",
+    "address": "C/ Valeriano Valdesuso, s/n, Vilalba, Lugo, España",
+    "id": 95,
+    "latitude": 43.297999,
+    "longitude": -7.682793,
+    "name": "Parador de Vilalba",
+    "stations": 1
+  },
+  {
+    "zipcode": "01150",
+    "address": "Avenue Charles de Gaulle, Saint-Vulbas France",
+    "id": 96,
+    "latitude": 45.83755,
+    "longitude": 5.286364,
+    "name": "CNR Saint-Vulbas",
+    "stations": 3
+  },
+  {
+    "zipcode": "33788",
+    "address": "Carretera de la Playa, s/n, Cadavedo, Asturias, España",
+    "id": 97,
+    "latitude": 43.548932,
+    "longitude": -6.384568,
+    "name": "La Regalina",
+    "stations": 1
+  },
+  {
+    "zipcode": "40510",
+    "address": "1709 avenue Charles de Gaulle, Seignosse France",
+    "id": 98,
+    "latitude": 43.688107,
+    "longitude": -1.376207,
+    "name": "Particulier - Seignosse Bourg",
+    "stations": 1
+  },
+  {
+    "address": "33.840241,-5.521741",
+    "id": 99,
+    "latitude": 33.8402583,
+    "longitude": -5.521648799999999,
+    "name": "FastVolt Afriquia Meknès Riad El Menzeh",
+    "score": 10,
+    "stations": 3
+  },
+  {
+    "zipcode": "43440",
+    "address": "D588, Champagnac-le-Vieux, France",
+    "id": 100,
+    "latitude": 45.360903,
+    "longitude": 3.509111,
+    "name": "Station service intercommunale",
+    "score": 10,
+    "stations": 1
+  },
+  {
+    "zipcode": "24110",
+    "address": "30 Rue Amiral Courbet, Saint-Astier, Frankrijk",
+    "id": 101,
+    "latitude": 45.146826,
+    "longitude": 0.526395,
+    "name": "Borne",
+    "stations": 3
+  },
+  {
+    "zipcode": "05120",
+    "address": "place De La Mairie, L'Argentière-la-Bessée, France",
+    "id": 102,
+    "latitude": 44.792564,
+    "longitude": 6.558873,
+    "name": "Carrefour Contact L' Argentière La Bessée",
+    "score": 6.9,
+    "stations": 3
+  },
+  {
+    "zipcode": "43700",
+    "address": "30 Avenue de Coubon, Brives Charensac France",
+    "id": 103,
+    "latitude": 45.048932,
+    "longitude": 3.914622,
+    "name": "Renault - Velay",
+    "stations": 1
+  },
+  {
+    "zipcode": "46818",
+    "address": "Calle Calvo Sotelo, 22, Vallés, Valencia, España",
+    "id": 104,
+    "latitude": 38.985212,
+    "longitude": -0.556366,
+    "name": "Eaton Charger",
+    "stations": 1
+  },
+  {
+    "zipcode": "24343",
+    "address": "34 A-231, EL BURGO RANERO, LEON ESP",
+    "id": 105,
+    "latitude": 42.41789,
+    "longitude": -5.216183,
+    "name": "IBERDROLA CLIENTES",
+    "stations": 2
+  },
+  {
+    "address": "Carretera de Marcilla, Km 2 , s/n",
+    "id": 106,
+    "latitude": 42.331226,
+    "longitude": -1.773391,
+    "name": "Jofemar S.A.",
+    "stations": 1
+  },
+  {
+    "zipcode": "46300",
+    "address": "Avenida del Deporte, 18, Utiel, Valencia, España",
+    "id": 107,
+    "latitude": 39.572475,
+    "longitude": -1.210887,
+    "name": "Ayuntamiento de utiel",
+    "score": 5.4,
+    "stations": 3
+  },
+  {
+    "zipcode": "10470",
+    "address": "Km. 75,6 Carretera EX-203, Villanueva de la Ve , España",
+    "id": 108,
+    "latitude": 40.132696,
+    "longitude": -5.416378,
+    "name": "Hotel El Balcon de la Vera",
+    "stations": 1
+  },
+  {
+    "zipcode": "12000",
+    "address": "Bel Air ZA, Rue des Miroitiers, Rodez FRA",
+    "id": 109,
+    "latitude": 44.374227,
+    "longitude": 2.544299,
+    "name": "Liikennevirta Oy (CPO)",
+    "stations": 2
+  },
+  {
+    "zipcode": "40000",
+    "address": "432 rue de la Ferme de Carboué, Mont de Marsan France",
+    "id": 110,
+    "latitude": 43.904486,
+    "longitude": -0.468325,
+    "name": "Nissan - Mont de Marsan",
+    "stations": 2
+  },
+  {
+    "zipcode": "64122",
+    "address": "20 Rue du Trinquet, Urrugne France",
+    "id": 111,
+    "latitude": 43.350585,
+    "longitude": -1.76442,
+    "name": "Particulier - Urrugne",
+    "stations": 1
+  },
+  {
+    "zipcode": "23470",
+    "address": "A-319, 5, Cazorla, Jaén, España",
+    "id": 112,
+    "latitude": 37.920804,
+    "longitude": -3.01899,
+    "name": "galo perol station",
+    "stations": 3
+  },
+  {
+    "zipcode": "50680",
+    "address": "Calle Arquitecto Sainz Vicuña, 11, Sos del Rey Católico, Zaragoza, España",
+    "id": 113,
+    "latitude": 42.499269,
+    "longitude": -1.215401,
+    "name": "Parador Sos Del Ray Catolico",
+    "stations": 1
+  },
+  {
+    "zipcode": "31220",
+    "address": "29 Avenue Pasteur, Cazères, France",
+    "id": 114,
+    "latitude": 43.208597,
+    "longitude": 1.085721,
+    "name": "Cazères",
+    "stations": 3
+  },
+  {
+    "zipcode": "34000",
+    "address": "Centre Commercial Odysseum - Parking de la Mer, Montpellier, France",
+    "id": 115,
+    "latitude": 43.601984,
+    "longitude": 3.917433,
+    "name": "Centre Commercial Odysseum",
+    "stations": 1
+  },
+  {
+    "address": "349 Route de Vannes St Herblain, France",
+    "id": 116,
+    "latitude": 47.253191,
+    "longitude": -1.62574,
+    "name": "Erdre Automobiles",
+    "stations": 1
+  },
+  {
+    "zipcode": "24100",
+    "address": "Route d'Eymet, Bergerac France",
+    "id": 117,
+    "latitude": 44.823786,
+    "longitude": 0.477083,
+    "name": "Nissan - Bergerac",
+    "stations": 2
+  },
+  {
+    "zipcode": "45005",
+    "address": "Crrt. Avila (Rotonda H.tres Culturas) Toledo, España",
+    "id": 118,
+    "latitude": 39.878784,
+    "longitude": -4.047529,
+    "name": "El Chuletero",
+    "stations": 3
+  },
+  {
+    "zipcode": "19800",
+    "address": "19800 Vitrac-sur-Montane, France",
+    "id": 119,
+    "latitude": 45.35919,
+    "longitude": 1.938126,
+    "name": "Aire de Service de la Corrèze",
+    "stations": 2
+  },
+  {
+    "address": "Monasterio de VALVANERA, s/n",
+    "id": 120,
+    "latitude": 42.231083,
+    "longitude": -2.869876,
+    "name": "DIMPLUS-Monasterio de VALVANERA",
+    "stations": 1
+  },
+  {
+    "zipcode": "30400",
+    "address": "30400 Caravaca de la Cruz Murcia, España",
+    "id": 121,
+    "latitude": 38.074681,
+    "longitude": -1.874861,
+    "name": "Vivaalime (7kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "22713",
+    "address": "Calle Llano Victoria, 26, Jaca, Huesca, España",
+    "id": 122,
+    "latitude": 42.56452,
+    "longitude": -0.567518,
+    "name": "jaca multimarca endesa",
+    "stations": 2
+  },
+  {
+    "zipcode": "06380",
+    "address": "Calle El Rodeo, s/n , Jerez de los Caballeros, ES",
+    "id": 123,
+    "latitude": 38.318702,
+    "longitude": -6.77928,
+    "name": "Calle El Rodeo",
+    "stations": 3
+  },
+  {
+    "zipcode": "46100",
+    "address": "Avenue Jean JaurÃ¨s, Figeac, França",
+    "id": 124,
+    "latitude": 44.606427,
+    "longitude": 2.029879,
+    "name": "Révéo Charge Station",
+    "stations": 1
+  },
+  {
+    "address": "- Lugar do Gaveto, Rua do Joinal, Portalegre, 7300-526, PRT",
+    "id": 125,
+    "latitude": 39.278305,
+    "longitude": -7.432637,
+    "name": "PTG-00008/9 - E.Leclerc",
+    "stations": 2
+  },
+  {
+    "zipcode": "44760",
+    "address": "Calle San Vicente de Paul, 1D, Utrillas, Teruel, España",
+    "id": 126,
+    "latitude": 40.812235,
+    "longitude": -0.8452048,
+    "name": "Ayuntamiento Utrillas",
+    "stations": 2
+  },
+  {
+    "zipcode": "30700",
+    "address": "420 route d'Alès, Uzes France",
+    "id": 127,
+    "latitude": 44.019505,
+    "longitude": 4.402464,
+    "name": "Renault - Uzes",
+    "stations": 1
+  },
+  {
+    "zipcode": "46000",
+    "address": "1012 avenue anatole de Monzie, Cahors France",
+    "id": 128,
+    "latitude": 44.432185,
+    "longitude": 1.4446,
+    "name": "Nissan - Cahors",
+    "stations": 2
+  },
+  {
+    "zipcode": "58120",
+    "address": "Rue André Charles Boulle, Château-Chinon-Campagne, France",
+    "id": 129,
+    "latitude": 47.055047,
+    "longitude": 3.936139,
+    "name": "Lidl",
+    "score": 5.6,
+    "stations": 3
+  },
+  {
+    "zipcode": "15100",
+    "address": "3, rue de la Planèze, Saint Flour France",
+    "id": 130,
+    "latitude": 45.037534,
+    "longitude": 3.075566,
+    "name": "Sàrl Serge Mourgues",
+    "stations": 1
+  },
+  {
+    "zipcode": "58000",
+    "address": "17 Rue de Charleville, Nevers, France",
+    "id": 131,
+    "latitude": 46.989482,
+    "longitude": 3.150229,
+    "name": "parking gare Nevers",
+    "stations": 2
+  },
+  {
+    "address": "33.535079,-5.107022",
+    "id": 132,
+    "latitude": 33.5355874,
+    "longitude": -5.106853399999999,
+    "name": "FastVolt Michlifen Ifrane",
+    "score": 5.2,
+    "stations": 2
+  },
+  {
+    "zipcode": "15705",
+    "address": "Vía de Isaac Peral, 86, Santiago de Compostella Galicië, España",
+    "id": 133,
+    "latitude": 42.910891,
+    "longitude": -8.508769,
+    "name": "Concesionario Nissan-Renault",
+    "stations": 2
+  },
+  {
+    "zipcode": "85200",
+    "address": "101 avenue du président François Mitterand, Fontenay-le-Comte France",
+    "id": 134,
+    "latitude": 46.45064,
+    "longitude": -0.807557,
+    "name": "Renault - Fontenay le Comte",
+    "stations": 1
+  },
+  {
+    "zipcode": "16640",
+    "address": "Calle Beltraneja, 2, Belmonte, Cuenca, España",
+    "id": 135,
+    "latitude": 39.560724,
+    "longitude": -2.702476,
+    "name": "Palacio Infante Don Juan Manuel Hotel Spa",
+    "stations": 1
+  },
+  {
+    "zipcode": "37500",
+    "address": "Route de Tours, Chinon France",
+    "id": 136,
+    "latitude": 47.182447,
+    "longitude": 0.274015,
+    "name": "Renault - Chinon",
+    "stations": 1
+  },
+  {
+    "zipcode": "25598",
+    "address": "Baqueira Beret - Edif.val de Ruda, Naut Aran, , España",
+    "id": 137,
+    "latitude": 42.699976,
+    "longitude": 0.931197,
+    "name": "Hotel Chalet Val de Ruda",
+    "stations": 1
+  },
+  {
+    "zipcode": "81100",
+    "address": "10 Rue Albert Calmettes, Castres, France",
+    "id": 138,
+    "latitude": 43.590304,
+    "longitude": 2.187111,
+    "name": "Auchan - Castres",
+    "stations": 2
+  },
+  {
+    "address": "Barcelona",
+    "id": 139,
+    "latitude": 42.749783,
+    "longitude": -1.186257,
+    "name": "Barcelona",
+    "stations": 2
+  },
+  {
+    "zipcode": "49260",
+    "address": "124 Rue du Miherve, Courchamps France",
+    "id": 140,
+    "latitude": 47.200774,
+    "longitude": -0.168823,
+    "name": "Particulier - Courchamps",
+    "stations": 1
+  },
+  {
+    "address": "- Rua Dom António Valente da Fonseca, Vila Real, 5000-651, PRT",
+    "id": 141,
+    "latitude": 41.299417,
+    "longitude": -7.750136,
+    "name": "VRL-00007 - Terminal Rodoviário",
+    "score": 10,
+    "stations": 3
+  },
+  {
+    "zipcode": "26150",
+    "address": "Route des Alpes, Die France",
+    "id": 142,
+    "latitude": 44.747392,
+    "longitude": 5.382864,
+    "name": "Garage Favier",
+    "stations": 1
+  },
+  {
+    "zipcode": "60300",
+    "address": "57 Bd Sultan Mly M'hamed, Berkane, Maroc",
+    "id": 143,
+    "latitude": 34.9283315129635,
+    "longitude": -2.3278097435832024,
+    "name": "Province De Berkane",
+    "score": 5.7,
+    "stations": 1
+  },
+  {
+    "address": "N2, Maroc",
+    "id": 144,
+    "latitude": 34.739501,
+    "longitude": -1.928912,
+    "name": "Station Winxo Oujda",
+    "score": 10,
+    "stations": 1
+  },
+  {
+    "zipcode": "03170",
+    "address": "Aire de l'Allier Saulzet - A71, Doyet FRA",
+    "id": 145,
+    "latitude": 46.355561,
+    "longitude": 2.800778,
+    "name": "Aire du l’Alier",
+    "score": 5.4,
+    "stations": 3
+  },
+  {
+    "zipcode": "14740",
+    "address": "AYUNTAMIENTO DE HORNACHUELOS - Pl. Constitución, 1, Hornachuelos, Córdoba, España, 14740 Hornachuelos, ES",
+    "id": 146,
+    "latitude": 37.830899,
+    "longitude": -5.242916,
+    "name": "AYUNTAMIENTO DE HORNACHUELOS",
+    "stations": 2
+  },
+  {
+    "zipcode": "79190",
+    "address": "79190 Limalonges, France",
+    "id": 147,
+    "latitude": 46.133461,
+    "longitude": 0.178791,
+    "name": "ZAC des maisons blanches",
+    "stations": 2
+  },
+  {
+    "zipcode": "33570",
+    "address": "D119, Francs, France",
+    "id": 148,
+    "latitude": 44.938153,
+    "longitude": 0.000336,
+    "name": "Château Laulan",
+    "stations": 1
+  },
+  {
+    "zipcode": "29780",
+    "address": "Calle de Almuñécar, Nerja Andalusia, España",
+    "id": 149,
+    "latitude": 36.750114,
+    "longitude": -3.870872,
+    "name": "Parador de Nerja",
+    "stations": 1
+  },
+  {
+    "zipcode": "63000",
+    "address": "4 Rue Louis Blériot Clermont-Ferrand, France",
+    "id": 150,
+    "latitude": 45.781665,
+    "longitude": 3.133116,
+    "name": "Renault Bony Automobiles",
+    "stations": 1
+  },
+  {
+    "zipcode": "24000",
+    "address": "Voie des Stades, Périgueux France",
+    "id": 151,
+    "latitude": 45.199382,
+    "longitude": 0.694982,
+    "name": "Nissan - Périgueux",
+    "stations": 2
+  },
+  {
+    "address": "6437+7M Ajdir, Morocco",
+    "id": 152,
+    "latitude": 35.20320499499404,
+    "longitude": -3.8858491266344375,
+    "name": "Radisson Blu Al Hoceima",
+    "stations": 1
+  },
+  {
+    "zipcode": "79190",
+    "address": "Rue Treille Bourgeau, Sauzé-Vaussais France",
+    "id": 153,
+    "latitude": 46.131385,
+    "longitude": 0.105944,
+    "name": "REGIONLIB / Station Autopartage",
+    "stations": 2
+  },
+  {
+    "address": "9WP2+J2Q, Tarmilate, Morocco",
+    "id": 154,
+    "latitude": 33.385766277164336,
+    "longitude": -6.09960213303566,
+    "name": "Hôtel Des Thermes",
+    "stations": 1
+  },
+  {
+    "zipcode": "09000",
+    "address": "3 Rue des Marchandises, Foix, França",
+    "id": 155,
+    "latitude": 42.97164,
+    "longitude": 1.607169,
+    "name": "Foix Estació De Tren",
+    "score": 8.2,
+    "stations": 1
+  },
+  {
+    "zipcode": "85300",
+    "address": "167 Route de Nantes Challans France",
+    "id": 156,
+    "latitude": 46.861225,
+    "longitude": -1.864414,
+    "name": "Zero Emission Network",
+    "stations": 3
+  },
+  {
+    "zipcode": "31360",
+    "address": "11 avenue du  novembre 1918 parking du supermarche Proxi, Boussens France",
+    "id": 157,
+    "latitude": 43.176056,
+    "longitude": 0.970375,
+    "name": "Parking supermarché Proxi",
+    "stations": 1
+  },
+  {
+    "address": "27 Avenue du général de gaulle",
+    "id": 158,
+    "latitude": 46.572064,
+    "longitude": 3.331842,
+    "name": "SDE03 Moulins",
+    "stations": 1
+  },
+  {
+    "zipcode": "18600",
+    "address": "Carretera Almeria, 79, Motril, Granada, España",
+    "id": 159,
+    "latitude": 36.735717,
+    "longitude": -3.512041,
+    "name": "Audi VW - Automotor casa",
+    "stations": 1
+  },
+  {
+    "zipcode": "26007",
+    "address": "Calle del Portillejo, 7, Logroño La Rioja, España",
+    "id": 160,
+    "latitude": 42.461504,
+    "longitude": -2.467319,
+    "name": "PEREZ REPUESTOS Y TALLERES, S.A.",
+    "stations": 1
+  },
+  {
+    "address": "R. Principal 51, 7350 Elvas, Portugal",
+    "id": 161,
+    "latitude": 38.875245,
+    "longitude": -7.15894,
+    "name": "Lidl Elvas",
+    "stations": 3
+  },
+  {
+    "zipcode": "02640",
+    "address": "Calle de los Carpinteros, 1–11, Almansa Castilië-La Mancha, España",
+    "id": 162,
+    "latitude": 38.875125,
+    "longitude": -1.112998,
+    "name": "Renault Dicar Almansa",
+    "stations": 1
+  },
+  {
+    "address": "Calle de Segundo Santo Tomás, 5",
+    "id": 163,
+    "latitude": 42.471441,
+    "longitude": -2.463247,
+    "name": "PROYECTO CONNECT",
+    "stations": 1
+  },
+  {
+    "zipcode": "14600",
+    "address": "Calle Pp Atalaya y el Morrón, 5, Montoro, Córdoba, España",
+    "id": 164,
+    "latitude": 38.010348,
+    "longitude": -4.380863,
+    "name": "Mercadona Montoro",
+    "stations": 1
+  },
+  {
+    "zipcode": "30110",
+    "address": "17 avenue du 19 mars 1962, La Grand-Combe France",
+    "id": 165,
+    "latitude": 44.21727,
+    "longitude": 4.032322,
+    "name": "Particulier - La Grand-Combe",
+    "stations": 1
+  },
+  {
+    "address": "R. de Santo André 6, 7100-453 Estremoz, Portugal",
+    "id": 166,
+    "latitude": 38.842226,
+    "longitude": -7.587512,
+    "name": "ETZ-00002 (Próximamente)",
+    "stations": 1
+  },
+  {
+    "address": "- Rua do Chafariz Del Rei, Évora, 7000-002, PRT",
+    "id": 167,
+    "latitude": 38.566743,
+    "longitude": -7.902458,
+    "name": "EVR-00011 - Repsol Evora",
+    "score": 10,
+    "stations": 2
+  },
+  {
+    "zipcode": "07760",
+    "address": "NAUT, BAJO;REST. DEL CLUB, Camí de Baix, 8, Ciutadella de Menorca, Illes Balears, España",
+    "id": 168,
+    "latitude": 39.999622,
+    "longitude": 3.831615,
+    "name": "Iberdrola Charger Camí de Baix (Coming soon)",
+    "stations": 3
+  },
+  {
+    "zipcode": "79000",
+    "address": "10 Rue Robert Turgot, Niort France",
+    "id": 169,
+    "latitude": 46.334759,
+    "longitude": -0.409036,
+    "name": "Castorama - Niort",
+    "stations": 3
+  },
+  {
+    "zipcode": "44420",
+    "address": "Km. 2 Carretera Abejuela, Manzanera, España",
+    "id": 170,
+    "latitude": 40.039382,
+    "longitude": -0.868354,
+    "name": "Balneario de Manzanera El Paraiso",
+    "stations": 1
+  },
+  {
+    "zipcode": "79340",
+    "address": "18 Place du 25 Août, Vasles France",
+    "id": 171,
+    "latitude": 46.575572,
+    "longitude": -0.025189,
+    "name": "Particulier - Vasles",
+    "stations": 1
+  },
+  {
+    "zipcode": "36500",
+    "address": "Rúa da Corredoira, 37, Lalín, Pontevedra, España",
+    "id": 172,
+    "latitude": 42.664955,
+    "longitude": -8.121956,
+    "name": "Estación de Servizo Repsol Lalín",
+    "stations": 1
+  },
+  {
+    "zipcode": "64290",
+    "address": "chemin du Merce, Bosdarros France",
+    "id": 173,
+    "latitude": 43.207447,
+    "longitude": -0.373008,
+    "name": "Particulier - Bosdarros",
+    "stations": 2
+  },
+  {
+    "zipcode": "16150",
+    "address": "Barrio los Demetrios, 13, Vega del Codorno, Cuenca, España",
+    "id": 174,
+    "latitude": 40.44743,
+    "longitude": -1.948429,
+    "name": "Aparthotel Biosostenible Jardin del Rio Cuervo",
+    "stations": 1
+  },
+  {
+    "zipcode": "25000",
+    "address": "Rue Nicolas Bruand, Besançon France",
+    "id": 175,
+    "latitude": 47.250056,
+    "longitude": 6.022439,
+    "name": "Cité Administrative Bruand",
+    "stations": 3
+  },
+  {
+    "address": "- Burger King Av. Boavista - Av. Boavista 2600, Porto, 4100-119, PRT",
+    "id": 176,
+    "latitude": 41.162326,
+    "longitude": -6.773953,
+    "name": "Mobi.E",
+    "stations": 2
+  },
+  {
+    "zipcode": "05002",
+    "address": "Ctra. Burgohondo, s/n, 5, Ávila, España",
+    "id": 177,
+    "latitude": 40.64636207581636,
+    "longitude": -4.705138765275478,
+    "name": "Iberdrola Volkswagen",
+    "stations": 1
+  },
+  {
+    "zipcode": "22300",
+    "address": "A-1226, Barbastro, Huesca, España",
+    "id": 178,
+    "latitude": 41.998426,
+    "longitude": 0.095467,
+    "name": "Area 62, El Pueyo (Próximamente)",
+    "stations": 3
+  },
+  {
+    "zipcode": "37770",
+    "address": "Plaza Mayor, 1–2, Guijuelo Castile and León, España",
+    "id": 179,
+    "latitude": 40.557264,
+    "longitude": -5.672009,
+    "name": "Plaja Major",
+    "stations": 1
+  },
+  {
+    "zipcode": "27740",
+    "address": "Camino do Sabelo, 2, Mondoñedo, Lugo, España",
+    "id": 180,
+    "latitude": 43.42816,
+    "longitude": -7.366,
+    "name": "ENDESA X - Mondoñedo (Próximamente)",
+    "stations": 3
+  },
+  {
+    "zipcode": "66600",
+    "address": "Rue Georges Mélies, Rivesaltes, France",
+    "id": 181,
+    "latitude": 42.77530648851498,
+    "longitude": 2.908302811722483,
+    "name": "Tesla Supercharger, Rivesaltes, France",
+    "stations": 1
+  },
+  {
+    "address": "Avenida de la República Argentina, s/n",
+    "id": 182,
+    "latitude": 42.004313,
+    "longitude": -4.529471,
+    "name": "Parking Pío XII",
+    "stations": 1
+  },
+  {
+    "zipcode": "02400",
+    "address": "Calle de la Libertad, Hellín Castilië-La Mancha, España",
+    "id": 183,
+    "latitude": 38.527978,
+    "longitude": -1.70174,
+    "name": "Renault Vincente Lucas de Helin (7.4kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "30100",
+    "address": "Chemin Dourtoulan, Ales France",
+    "id": 184,
+    "latitude": 44.113964,
+    "longitude": 4.106655,
+    "name": "Sourire et Soleil, Rocade Est, Rond-point du Pont du Gard",
+    "stations": 1
+  },
+  {
+    "zipcode": "39100",
+    "address": "3 Rue Monge, Dole France",
+    "id": 185,
+    "latitude": 47.111735,
+    "longitude": 5.496818,
+    "name": "Renault - Dole",
+    "stations": 1
+  },
+  {
+    "zipcode": "16430",
+    "address": "Avd. Castilla-La Mancha, 11, km 102-A3, Saelices, Cuenca, España",
+    "id": 186,
+    "latitude": 39.921287,
+    "longitude": -2.812787,
+    "name": "Las Termas de Segobriga",
+    "score": 9,
+    "stations": 3
+  },
+  {
+    "address": "- Av. da Fronteira, Almeida, 6355-270, PRT",
+    "id": 187,
+    "latitude": 40.608716,
+    "longitude": -6.82825,
+    "name": "ALD-00002",
+    "score": 9,
+    "stations": 2
+  },
+  {
+    "zipcode": "50250",
+    "address": "Paseo Marcelino Andaluz Vergara, 5, Illueca, Zaragoza, España",
+    "id": 188,
+    "latitude": 41.53487,
+    "longitude": -1.63015,
+    "name": "ENDESA X - Sancho Asensio (Próximamente)",
+    "stations": 3
+  },
+  {
+    "address": "R. Alecrim 211, 5370 Mirandela, Portugal",
+    "id": 189,
+    "latitude": 41.493878,
+    "longitude": -7.181635,
+    "name": "Lidl",
+    "score": 5.4,
+    "stations": 3
+  },
+  {
+    "zipcode": "34005",
+    "address": "Avenida deAsturias, 38, Palencia, España",
+    "id": 190,
+    "latitude": 42.026677,
+    "longitude": -4.549712,
+    "name": "IBIL - Repsol Palencia",
+    "stations": 3
+  },
+  {
+    "zipcode": "64350",
+    "address": "Crampilh, Aurions-Idernes France",
+    "id": 191,
+    "latitude": 43.541421,
+    "longitude": -0.13547,
+    "name": "Gite Rural La Crampette aux Tournesols",
+    "stations": 1
+  },
+  {
+    "zipcode": "33816",
+    "address": "Monasterio de San Juan Bautista de Corias, s/n, Cangas del Narcea, , España",
+    "id": 192,
+    "latitude": 43.195577,
+    "longitude": -6.543535,
+    "name": "Parador de Corias",
+    "stations": 1
+  },
+  {
+    "zipcode": "25300",
+    "address": "1–5 Place de Villingen-Schwenningen, Pontarlier, France",
+    "id": 193,
+    "latitude": 46.901127,
+    "longitude": 6.351416,
+    "name": "gare pontarlier",
+    "stations": 1
+  },
+  {
+    "zipcode": "48000",
+    "address": "Place Henri Trémolet de Villers, Mende, France",
+    "id": 194,
+    "latitude": 44.519253,
+    "longitude": 3.498953,
+    "name": "REVEO MENDE CENTER",
+    "stations": 1
+  },
+  {
+    "zipcode": "13800",
+    "address": "DOMAINE LA PICTURALE RUE COPERNIE ZI TUBE SUD, ISTRES, FRANCE",
+    "id": 195,
+    "latitude": 43.515128,
+    "longitude": 4.9862,
+    "name": "SAN PROVENCE",
+    "stations": 1
+  },
+  {
+    "address": "N3, 6000-459 Castelo Branco, Portugal",
+    "id": 196,
+    "latitude": 39.806485,
+    "longitude": -7.515676,
+    "name": "Tesla Supercharger Castelo Branco (Próximamente)",
+    "stations": 1
+  },
+  {
+    "zipcode": "58150",
+    "address": "A77, aire des vignobles, Tracy-sur-Loire, France",
+    "id": 197,
+    "latitude": 47.337543,
+    "longitude": 2.926765,
+    "name": "Aire Des Vignobles",
+    "stations": 1
+  },
+  {
+    "zipcode": "24286",
+    "address": "Carr. de León-Astorga, 12, Hospital de Órbigo, León, España",
+    "id": 198,
+    "latitude": 42.458981,
+    "longitude": -5.876875,
+    "name": "IBERDROLA - GLG, León (Próximamente)",
+    "stations": 3
+  },
+  {
+    "address": "- Via do Grande Lago, n.º 25, Reguengos de Monsaraz, 7200-483, PRT",
+    "id": 199,
+    "latitude": 38.423992,
+    "longitude": -7.545872,
+    "name": "Mobi.E",
+    "stations": 3
+  },
+  {
+    "zipcode": "45600",
+    "address": "Carretera N-V, km 114, Talavera de la Reina, , España",
+    "id": 200,
+    "latitude": 39.96643,
+    "longitude": -4.796442,
+    "name": "Comunidad General Parque Comercial Talavera",
+    "stations": 1
+  },
+  {
+    "zipcode": "26125",
+    "address": "Juan Antonio García-Cuerdas, Villoslada de Cameros, La Rioja, España",
+    "id": 201,
+    "latitude": 42.11231346696933,
+    "longitude": -2.672490433204646,
+    "name": "Juan Antonio García Cuerdas",
+    "stations": 3
+  },
+  {
+    "zipcode": "42190",
+    "address": "Calle del Querer, 14, Golmayo, Soria, España",
+    "id": 202,
+    "latitude": 41.773132,
+    "longitude": -2.49961,
+    "name": "Centro Comercial Camaretas\n- McDonald's",
+    "stations": 3
+  },
+  {
+    "zipcode": "23000",
+    "address": "31 Avenue Charles de Gaulle, Gueret France",
+    "id": 203,
+    "latitude": 46.176746,
+    "longitude": 1.872408,
+    "name": "Renault Gueret",
+    "stations": 1
+  },
+  {
+    "zipcode": "44610",
+    "address": "Camino de Arens, 34–38, Calaceite Aragón, España",
+    "id": 204,
+    "latitude": 41.01412,
+    "longitude": 0.192616,
+    "name": "Grafiques del Matarranya (11kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "27850",
+    "address": "Av. Ramón Canosa, 24, Viveiro, Lugo, España",
+    "id": 205,
+    "latitude": 43.666767,
+    "longitude": -7.593948,
+    "name": "Marina Viveiro (16A 3 phase red plug)",
+    "stations": 1
+  },
+  {
+    "zipcode": "04868",
+    "address": "Calle Reul Alto, s/n, Laroya, Almería, España",
+    "id": 206,
+    "latitude": 37.285132,
+    "longitude": -2.347606,
+    "name": "Reul Alto Cortijos Rurales",
+    "stations": 1
+  },
+  {
+    "zipcode": "21200",
+    "address": "Urb. Huerta de los Panadero, 65, Aracena, Huelva, España",
+    "id": 207,
+    "latitude": 37.888839,
+    "longitude": -6.570308,
+    "name": "Aparcamientos",
+    "stations": 3
+  },
+  {
+    "address": "- E.N. 258, Barrancos, 7230-000, PRT",
+    "id": 208,
+    "latitude": 38.134196,
+    "longitude": -6.980088,
+    "name": "BRC-00001",
+    "stations": 1
+  },
+  {
+    "zipcode": "23400",
+    "address": "Plaza Andalucía, 2, Úbeda, Jaén, España",
+    "id": 209,
+    "latitude": 38.011117,
+    "longitude": -3.371597,
+    "name": "Aparcamientos Ubeda",
+    "stations": 1
+  },
+  {
+    "zipcode": "46623",
+    "address": "18 POLIGONO 18, JARAFUEL, VALENCIA ESP",
+    "id": 210,
+    "latitude": 39.139312,
+    "longitude": -1.078795,
+    "name": "IBERDROLA CLIENTES",
+    "stations": 2
+  },
+  {
+    "address": "Paseo Morella, 1",
+    "id": 211,
+    "latitude": 39.988874,
+    "longitude": -0.047586,
+    "name": "El Corte Inglés (Castellón)",
+    "stations": 1
+  },
+  {
+    "zipcode": "13210",
+    "address": "ANDALUCIA 145, VILLARTA DE SAN JUAN ES",
+    "id": 212,
+    "latitude": 39.250364,
+    "longitude": -3.430362,
+    "name": "IBERDROLA CLIENTES",
+    "score": 9,
+    "stations": 3
+  },
+  {
+    "zipcode": "14014",
+    "address": "C. Gabriel Ramos Bejarano, 110, Córdoba, España",
+    "id": 213,
+    "latitude": 37.898948,
+    "longitude": -4.726786,
+    "name": "Gasolinera G Ramos Bejarano",
+    "stations": 1
+  },
+  {
+    "zipcode": "86440",
+    "address": "25 Avenue de la Loge Migné-Auxances, France",
+    "id": 214,
+    "latitude": 46.613534,
+    "longitude": 0.315509,
+    "name": "Nissan Espace des Nations",
+    "stations": 1
+  },
+  {
+    "zipcode": "13300",
+    "address": "Av. Gregorio Prieto, 26, Valdepeñas, Cdad. Real, España",
+    "id": 215,
+    "latitude": 38.767373,
+    "longitude": -3.387664,
+    "name": "Nissan Mecoval Motor",
+    "stations": 1
+  },
+  {
+    "zipcode": "24340",
+    "address": "64-68 Rue de Ribérac La Rochebeaucourt-et-Argentine France",
+    "id": 216,
+    "latitude": 45.482248,
+    "longitude": 0.380019,
+    "name": "SDE24 - LA ROCHEBEAUCOURT - Parking Bascule - Rue De Riberac",
+    "stations": 3
+  },
+  {
+    "zipcode": "15138",
+    "address": "VG-1.4, Cee, La Coruña, España",
+    "id": 217,
+    "latitude": 42.977754,
+    "longitude": -9.191087,
+    "name": "Low Cost Repostart / Cee",
+    "stations": 3
+  },
+  {
+    "zipcode": "19400",
+    "address": "33 Avenue Foch , Argentat-sur-Dordogne, FR",
+    "id": 218,
+    "latitude": 45.093281,
+    "longitude": 1.93314,
+    "name": "33 Avenue Foch",
+    "stations": 1
+  },
+  {
+    "zipcode": "27418",
+    "address": "Rúa Abeledos, 171, Monforte de Lemos, Lugo, España",
+    "id": 219,
+    "latitude": 42.526851,
+    "longitude": -7.522306,
+    "name": "Mercadona",
+    "stations": 1
+  },
+  {
+    "zipcode": "05320",
+    "address": "Route Nationale 91, La Gràve, France",
+    "id": 220,
+    "latitude": 45.044284,
+    "longitude": 6.300711,
+    "name": "Salle Polyvalente",
+    "stations": 2
+  },
+  {
+    "zipcode": "65100",
+    "address": "Avenue Alexandre Marqui 45A, Lourdes FRA",
+    "id": 221,
+    "latitude": 43.106266,
+    "longitude": -0.040367,
+    "name": "has.to.be gmbh",
+    "score": 1.4,
+    "stations": 3
+  },
+  {
+    "zipcode": "71500",
+    "address": "2041 route de Breuve, Saint Usuge France",
+    "id": 222,
+    "latitude": 46.675855,
+    "longitude": 5.216835,
+    "name": "Particulier - Saint Usuge",
+    "stations": 1
+  },
+  {
+    "zipcode": "40200",
+    "address": "1480 VALLADOLID (CUELLAR), CUELLAR, SEGOVIA ESP",
+    "id": 223,
+    "latitude": 41.40552,
+    "longitude": -4.32696,
+    "name": "IBERDROLA CLIENTES (Próximamente)",
+    "stations": 3
+  },
+  {
+    "zipcode": "32300",
+    "address": "Carretera Nacional 120, km 455, O Barco de Valdeorras, Ourense, España",
+    "id": 224,
+    "latitude": 42.426223,
+    "longitude": -6.98854,
+    "name": "Hotel O Camiño",
+    "stations": 1
+  },
+  {
+    "zipcode": "24546",
+    "address": "s/n Calle la Iglesia, Canedo, , España",
+    "id": 225,
+    "latitude": 42.644954,
+    "longitude": -6.704906,
+    "name": "Palacio de Canedo",
+    "score": 9,
+    "stations": 1
+  },
+  {
+    "zipcode": "10290",
+    "address": "Near Wenea Charging Station Cáceres, España",
+    "id": 226,
+    "latitude": 39.474894724350364,
+    "longitude": -5.858148671686649,
+    "name": "Hotel Peru",
+    "stations": 1
+  },
+  {
+    "zipcode": "33540",
+    "address": "Villanueva de Cangas, s/n, Cangas de Onís, Asturias, España",
+    "id": 227,
+    "latitude": 43.365785,
+    "longitude": -5.150729,
+    "name": "Parador de Cangas de Onis",
+    "stations": 1
+  },
+  {
+    "zipcode": "47150",
+    "address": "loustalet, Monségur France",
+    "id": 228,
+    "latitude": 44.474111,
+    "longitude": 0.881932,
+    "name": "Particulier - Monségur",
+    "stations": 1
+  },
+  {
+    "zipcode": "49310",
+    "address": "rue des Courtils, Vihiers France",
+    "id": 229,
+    "latitude": 47.146116,
+    "longitude": -0.520107,
+    "name": "Centre commercial Super U Vihiers",
+    "stations": 2
+  },
+  {
+    "address": "- A23 Km 80 - Fratel (N/S), Vila Velha de Ródão, 6030-998, PRT",
+    "id": 230,
+    "latitude": 39.573067,
+    "longitude": -7.782295,
+    "name": "Mobi.E",
+    "stations": 2
+  },
+  {
+    "zipcode": "24160",
+    "address": "Domaine d'Essendiéras, Saint-Médard-d'Excideuil, France",
+    "id": 231,
+    "latitude": 45.355258,
+    "longitude": 1.094706,
+    "name": "Domaine d'Essendiéras",
+    "stations": 1
+  },
+  {
+    "zipcode": "13500",
+    "address": "Calle del Chopo, Puertollano Castilië-La Mancha, España",
+    "id": 232,
+    "latitude": 38.697648,
+    "longitude": -4.111866,
+    "name": "Centro Nacional del Hidrogeno (1kW)",
+    "stations": 1
+  },
+  {
+    "zipcode": "06191",
+    "address": "C. Pizarras, 7, Puebla de Obando, Badajoz, España",
+    "id": 233,
+    "latitude": 39.17589470004197,
+    "longitude": -6.620634548767215,
+    "name": "Rest El Valle Grande [Wenea]",
+    "stations": 3
+  },
+  {
+    "zipcode": "13110",
+    "address": "NA 42 Avenue Auguste Marius Peyre, Port-de-Bouc FRA",
+    "id": 234,
+    "latitude": 43.017699,
+    "longitude": 4.992185,
+    "name": "ChargePoint Network (Netherlands) B.V.",
+    "stations": 2
+  },
+  {
+    "zipcode": "83507",
+    "address": "Quartier Lery, RN 63, La Seyne-sur-Mer, France",
+    "id": 235,
+    "latitude": 43.111268,
+    "longitude": 5.85825,
+    "name": "Auchan Toulon",
+    "stations": 2
+  },
+  {
+    "zipcode": "27861",
+    "address": "Carretera Antigua Ferrol, 157, Viveiro, Lugo, España",
+    "id": 236,
+    "latitude": 43.677251,
+    "longitude": -7.614439,
+    "name": "[Wenea] Hotel Las Sirenas",
+    "stations": 3
+  },
+  {
+    "zipcode": "18511",
+    "address": "Diseminado Extrarradio, 36 Granada, España",
+    "id": 237,
+    "latitude": 37.24667,
+    "longitude": -3.09288,
+    "name": "Casa Cueva del Tío Tobas",
+    "stations": 2
+  },
+  {
+    "zipcode": "47290",
+    "address": "19 Rue du Marché, Cancon, France",
+    "id": 238,
+    "latitude": 44.536324,
+    "longitude": 0.623992,
+    "name": "Rue du Marché Stationnement / Chargement",
+    "stations": 3
+  },
+  {
+    "zipcode": "39200",
+    "address": "Av. Cantabria, 84, Reinosa, Cantabria, España",
+    "id": 239,
+    "latitude": 43.006768,
+    "longitude": -4.128229,
+    "name": "E.S. Parte Hermanos [Urbener]",
+    "stations": 2
+  },
+  {
+    "zipcode": "10200",
+    "address": "Plaza del Campillo, 1, Trujillo, Cáceres, España",
+    "id": 240,
+    "latitude": 39.458891,
+    "longitude": -5.87761,
+    "name": "Hotel Izan Trujillo",
+    "stations": 1
+  },
+  {
+    "zipcode": "86500",
+    "address": "27, Route de Lussac, Montmorillon FRA",
+    "id": 241,
+    "latitude": 46.420662,
+    "longitude": 0.861259,
+    "name": "Threeforce B.V. (CPO)",
+    "stations": 3
+  },
+  {
+    "zipcode": "49516",
+    "address": "1674 QUINIENTOS SIETE, TRABAZOS, ZAMORA ESP",
+    "id": 242,
+    "latitude": 41.743748,
+    "longitude": -6.496521,
+    "name": "IBERDROLA CLIENTES",
+    "stations": 3
+  },
+  {
+    "zipcode": "24195",
+    "address": "1 VAGO, VILLAQUILAMBRE, LEON ESP",
+    "id": 243,
+    "latitude": 42.602588,
+    "longitude": -5.549693,
+    "name": "IBERDROLA CLIENTES",
+    "stations": 1
+  },
+  {
+    "zipcode": "48300",
+    "address": "Route de Mende, Langogne, France",
+    "id": 244,
+    "latitude": 44.711788,
+    "longitude": 3.8264,
+    "name": "Domaine de Barres",
+    "stations": 1
+  },
+  {
+    "zipcode": "13230",
+    "address": "Avenue Anatole France, Port-Saint-Louis-du-Rhône, Frankrijk",
+    "id": 245,
+    "latitude": 43.383692,
+    "longitude": 4.808895,
+    "name": "NCR",
+    "stations": 3
+  },
+  {
+    "zipcode": "50700",
+    "address": "A-230, 7, Caspe, Zaragoza, España",
+    "id": 246,
+    "latitude": 41.249283,
+    "longitude": -0.068017,
+    "name": "Endesa en Repsol",
+    "stations": 4
+  },
+  {
+    "zipcode": "47180",
+    "address": "Avenue du Général de Gaulle, Sainte-Bazeille France",
+    "id": 247,
+    "latitude": 44.525543,
+    "longitude": 0.105313,
+    "name": "Nissan - Sainte-Bazeille",
+    "stations": 1
+  },
+  {
+    "zipcode": "58470",
+    "address": "137 Bardonnay , Magny-Cours, FR",
+    "id": 248,
+    "latitude": 46.872436,
+    "longitude": 3.160513,
+    "name": "137 Bardonnay",
+    "stations": 3
+  },
+  {
+    "zipcode": "04700",
+    "address": "Calle Juan DE la Cierva, 1, El Ejido, Almería, España",
+    "id": 249,
+    "latitude": 36.75787,
+    "longitude": -2.80028,
+    "name": "Endesa - E.S. El Ejido",
+    "stations": 3
+  }
+]
