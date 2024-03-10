@@ -48,7 +48,7 @@ const Weather: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
 
   const API_KEY = "4f0211e4a121fe3cfc92fc65fb15aab8";
-  const url = `http://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${API_KEY}&units=metric&lang=es`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${API_KEY}&units=metric&lang=es`;
 
   const searchLocation = async () => {
     try {
