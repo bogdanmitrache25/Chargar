@@ -10,7 +10,7 @@ const Welcome = () => {
         muted
         className="absolute top-0 left-0 min-w-full min-h-full object-cover z-0"
       >
-        <source src="src/assets/landingVideo.mp4" type="video/mp4" />
+        <source src="landingVideo.mp4" type="video/mp4" />
       </video>
 
       <div className="absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center text-white z-10">
