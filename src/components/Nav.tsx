@@ -11,7 +11,7 @@ interface NavProps {
 const NavLinks = [
   {
     id: "1",
-    name: "INICIO 🏠",
+    name: "INICIO ",
     link: "/user",
   },
   {
@@ -21,13 +21,13 @@ const NavLinks = [
   },
   {
     id: "3",
-    name: "TOP COCHES 🔝",
+    name: "TOP COCHES ",
     link: "/user/top-coches",
   },
 
   {
     id: "5",
-    name: "INTELIGENCIA ARTIFICIAL 🤖",
+    name: "INTELIGENCIA ARTIFICIAL ",
     link: "user/ia",
   },
   {
@@ -77,7 +77,7 @@ const Nav: React.FC<NavProps> = ({ theme, setTheme }) => {
                 </li>
               )}
               <button className="inline-block py-4" onClick={handleLogout}>
-                CERRAR SESIÓN 🪫
+                CERRAR SESIÓN
               </button>
 
               <div>

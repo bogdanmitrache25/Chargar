@@ -88,20 +88,24 @@ function ChargingPointV2() {
   };
 
   return (
-    <div className="flex gap-5 p-5 h-[calc(100vh-144px)]">
+    <div className="flex gap-5 p-5 h-[calc(100vh-144px)] ">
       <div
         id="map"
-        className="w-full lg:w-2/3 h-80vh lg:h-auto mt-4 lg:mt-0 min-w-[70%] bg-red-600	"
+        className="w-full lg:w-2/3 h-80vh lg:h-auto mt-4 lg:mt-0 min-w-[70%] bg-yellow-400	"
       />
 
-      <div className="w-full lg:w-2/3 h-80vh lg:h-auto mt-4 lg:mt-0 bg-red-600	flex flex-col p-5 gap-5">
-        <div className="flex flex-col gap-5 justify-center items-center bg-orange-400 w-full h-[30%]">
+      <div className="w-full lg:w-2/3 h-80vh lg:h-auto mt-4 lg:mt-0 bg-black	flex flex-col p-5 gap-5 rounded-xl">
+        <div className="flex flex-col gap-5 justify-center items-center bg-yellow-400 w-full h-[30%]">
           <label className="flex  gap-3">
-            <span>ciudad:</span>
+            <span className="inline-block bg-black text-white font-bold py-2 px-4 rounded-lg shadow-lg">
+              Ciudad:
+            </span>
+
             <input
               type="text"
               value={searchTerm}
               onChange={(event) => setSearchTerm(event.target.value)}
+              className="w-full bg-white border border-gray-300 rounded-lg py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
           </label>
           <button
@@ -113,7 +117,10 @@ function ChargingPointV2() {
             enviar
           </button>
         </div>
-        <div className=" bg-orange-400 w-full h-[70%] overflow-auto">
+        <div className=" bg-yellow-400 w-full h-[70%] overflow-auto">
+          <p className="align-middle select-none font-sans font-bold text-center uppercase transition-all ">
+            Listado Puntos de Carga disponibles:
+          </p>
           {!!chargingPoints.length && (
             <>
               {chargingPoints.map((chargingPoint) => (
@@ -121,14 +128,21 @@ function ChargingPointV2() {
                   key={chargingPoint.id}
                   className="flex flex-col gap-3 justify-center items-center"
                 >
-                  <div className="p-5">
-                    <p className="text-center font-bold">
+                  <div
+                    key={chargingPoint.id}
+                    className="p-5 bg-gradient-to-br from-yellow-500 to-black rounded-lg shadow-lg"
+                  >
+                    <p className="text-center text-white font-bold mb-3">
                       {chargingPoint.name}
                     </p>
-
-                    <p>{chargingPoint.address}</p>
-                    <p>Disponibles: {chargingPoint.stations}</p>
+                    <p className="text-center text-white">
+                      {chargingPoint.address}
+                    </p>
+                    <p className="text-center text-white">
+                      Disponibles: {chargingPoint.stations}
+                    </p>
                   </div>
+
                   <button
                     className="align-middle select-none font-sans font-bold text-center uppercase transition-all 
                     w-32

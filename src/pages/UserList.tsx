@@ -67,7 +67,7 @@ const UserList = () => {
 
   return (
     <div className="bg-black text-white">
-      <h2 className="text-2xl font-bold mb-4 text-center transition duration-300 ease-in-out transform hover:scale-105 hover:text-green-500">
+      <h2 className="text-2xl font-bold mb-4 text-center transition duration-300 ease-in-out transform hover:scale-105 hover:text-green-500 text-yellow-400">
         Usuarios registrados
       </h2>
 
@@ -90,29 +90,32 @@ const UserList = () => {
             </tr>
           </thead>
           <tbody>
-            {users.map((user) => (
-              <tr key={user.id}>
-                <td className="border border-white text-center">{user.id}</td>
-                <td className="border border-white text-center">{user.name}</td>
-                <td className="border border-white text-center">
-                  {user.email}
-                </td>
-                <td className="border border-white">
-                  <button
-                    className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-                    onClick={() => setEditUserId(user.id)}
-                  >
-                    Editar
-                  </button>
-                  <button
-                    className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded ml-2"
-                    onClick={() => setDeleteUserId(user.id)}
-                  >
-                    Borrar
-                  </button>
-                </td>
-              </tr>
-            ))}
+            {users &&
+              users.map((user) => (
+                <tr key={user.id}>
+                  <td className="border border-white text-center">{user.id}</td>
+                  <td className="border border-white text-center">
+                    {user.name}
+                  </td>
+                  <td className="border border-white text-center">
+                    {user.email}
+                  </td>
+                  <td className="border border-white">
+                    <button
+                      className="bg-yellow-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
+                      onClick={() => setEditUserId(user.id)}
+                    >
+                      Editar
+                    </button>
+                    <button
+                      className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded ml-2"
+                      onClick={() => setDeleteUserId(user.id)}
+                    >
+                      Borrar
+                    </button>
+                  </td>
+                </tr>
+              ))}
           </tbody>
         </table>
       </div>

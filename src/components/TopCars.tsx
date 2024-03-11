@@ -94,16 +94,16 @@ const TopCars = () => {
   ];
 
   return (
-    <div className="min-h-[80vh] bg-violet-100 flex flex-col p-4 md:p-8">
-      <h1 className="text-center text-4xl font-bold text-purple-600 border-b-8 border-transparent hover:border-purple-800 transition duration-300">
-        Top <span className="text-purple-800">Coches</span> Eléctricos{" "}
-        <span className="text-purple-800">de 2024</span>
+    <div className="min-h-[80vh] bg-gradient-to-br from-black to-yellow-900 flex flex-col p-4 md:p-8">
+      <h1 className="text-center text-4xl font-bold text-yellow-400 border-b-8 border-transparent ">
+        Top <span className="text-yellow-400">Coches</span> Eléctricos{" "}
+        <span className="text-yellow-400">de 2024</span>
       </h1>
       <div className="flex flex-wrap justify-center gap-4 mt-4">
         {cars.map((car) => (
           <div
             key={car.id}
-            className="max-w-md bg-white rounded-xl overflow-hidden shadow-lg flex flex-col md:flex-row md:max-w-full"
+            className="max-w-md bg-yellow-300 rounded-xl overflow-hidden shadow-lg flex flex-col md:flex-row md:max-w-full"
           >
             <img
               src={car.image}
@@ -111,16 +111,10 @@ const TopCars = () => {
               className="w-full md:w-1/3 object-cover"
             />
             <div className="p-4 md:w-2/3">
-              <h2 className="text-2xl font-bold text-green-700 mb-2  border-green-700 hover:border-b-4 mr-10">
-                {car.model}
-              </h2>
-              <p className="text-xl font-bold text-purple-700 mb-2">
-                ⚡{car.range}
-              </p>
-              <p className="text-xl font-bold text-purple-700 mb-2">
-                💲{car.price}
-              </p>
-              <p className="text-gray-500 leading-relaxed font-semibold italic">
+              <h2 className="text-2xl font-bold text-black ">{car.model}</h2>
+              <p className="text-xl font-bold text-black">⚡{car.range}</p>
+              <p className="text-xl font-bold text-black">💲{car.price}</p>
+              <p className="text-black leading-relaxed font-semibold italic">
                 {car.description}
               </p>
             </div>
