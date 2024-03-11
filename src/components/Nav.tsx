@@ -24,15 +24,11 @@ const NavLinks = [
     name: "TOP COCHES 🔝",
     link: "/user/top-coches",
   },
-  {
-    id: "4",
-    name: "CONSEJOS 💡",
-    link: "/user/tips",
-  },
+
   {
     id: "5",
-    name: "NOTICIAS 🗞️",
-    link: "user/news",
+    name: "INTELIGENCIA ARTIFICIAL 🤖",
+    link: "user/ia",
   },
   {
     id: "6",

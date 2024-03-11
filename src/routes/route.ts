@@ -4,7 +4,6 @@ import Weather from "../components/Weather";
 import ChargingPoint from "../components/input/ChargingPoint";
 import ChargingPointV2 from "../components/input/ChargingPointv2";
 import News from "../components/input/News";
-import Tips from "../components/input/Tips";
 
 import Login from "../pages/Login";
 import Register from "../pages/Register";
@@ -60,12 +59,9 @@ export const routes: TypeRoute[] = [
         path: "/user/top-coches",
         element: TopCars,
       },
+
       {
-        path: "/user/tips",
-        element: Tips,
-      },
-      {
-        path: "user/news",
+        path: "user/ia",
         element: News,
       },
       {
