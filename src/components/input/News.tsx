@@ -1,13 +1,15 @@
 import { useState } from "react";
-
 import axios from "axios";
+import { FaSpinner } from "react-icons/fa";
 
 const News = () => {
   const [value, setValue] = useState("");
   const [result, setResult] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleSearch = async () => {
     console.log(value);
+    setIsLoading(true);
 
     const res = await axios.post(
       "https://api-ai.netlify.app/.netlify/functions/api",
@@ -27,6 +29,7 @@ const News = () => {
       }
     );
     setResult(res.data);
+    setIsLoading(false);
   };
 
   return (
@@ -52,11 +55,9 @@ const News = () => {
             className="mt-4 w-full bg-gray-900 text-white font-bold py-2 px-4 rounded-lg shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-gray-900"
             onClick={handleSearch}
           >
-            Buscar
+            {isLoading ? <FaSpinner className="animate-spin mr-2" /> : "Buscar"}
           </button>
-          {!value && !result && (
-            <p className="mt-4 text-gray-900">Cargando...</p>
-          )}
+          {isLoading && <p className="mt-2 text-gray-900">Cargando...</p>}
           {result && (
             <div
               id="result-ai"

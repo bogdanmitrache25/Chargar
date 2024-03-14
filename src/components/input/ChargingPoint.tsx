@@ -154,5 +154,3 @@ const ChargingPoint: React.FC = () => {
 
 export default ChargingPoint;
 // Api google maps : AIzaSyBGpTXd8OMvjB_Pz6wAJ0GBD2coevjv81c
-
-// Api directions google maps.
